@@ -1,0 +1,32 @@
+[
+  {
+    "photo": "images/Elnurbek.jpg",
+    "name": "Elnubrek",
+    "surname": "Toktomushov",
+    "age": 18
+  },
+  {
+    "photo": "images/Azim.jpg",
+    "name": "Azim",
+    "surname": "Nurgaziev",
+    "age": 19
+  },
+  {
+    "photo": "images/Nurdin.jpg",
+    "name": "Nurdin",
+    "surname": "Kubatbekov",
+    "age": 20
+  },
+  {
+    "photo": "images/Emil.jpg",
+    "name": "Emil",
+    "surname": "Kurmanaliev",
+    "age": 18
+  },
+  {
+    "photo": "images/Nurdan.jpg",
+    "name": "Nurdan",
+    "surname": "Djanybekov",
+    "age": 18
+  }
+]
